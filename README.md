@@ -8,9 +8,13 @@ Customer churn is a major problem in the telecom industry. This project helps id
 -  Predictive Analytics: AI visuals for churn prediction
 -  What-If Analysis: Simulate retention strategies
 -  Multi-page interactive dashboard (3 pages)
-##  Tools & Skills Used
+#  Tools & Skills Used
 - Power BI – Dashboarding & storytelling
 - DAX – Calculated measures, KPIs
 - Power Query – Data transformation
 - Data Modeling – Relationships & star schema
 - Predictive Analytics – AI visuals in Power BI
+# Dashboard Preview
+![Overview Page](screenshot1)
+![Segmentation Page](screenshot2)
+![Predictive Analysis](screenshot3)
