@@ -14,7 +14,7 @@ Customer churn is a major problem in the telecom industry. This project helps id
 - Power Query – Data transformation
 - Data Modeling – Relationships & star schema
 - Predictive Analytics – AI visuals in Power BI
-# Dashboard Preview
-![Overview Page](screenshot1)
-![Segmentation Page](screenshot2)
-![Predictive Analysis](screenshot3)
+#  Dashboard Preview
+![Overview Page](screenshot1.png)
+![Segmentation Page](screenshot2.png)
+![Predictive Analysis](screenshot3.png)
